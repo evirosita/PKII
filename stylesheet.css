@@ -15,3 +15,9 @@ img {
 p {
   color:#0000ff;
 }
+li{
+  color:#444;
+}
+.selected{
+  color:#ff0000;
+}
