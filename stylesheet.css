@@ -13,13 +13,13 @@ img {
 
 }
 p {
-  color:#0000ff;
+  color:#7FFFD4;
 }
 li{
-  color:#444;
+  color:#7FFFD4;
 }
 .selected{
-  color:#ff0000;
+  color:#7FFFD4;
 }
 li{
   list-style:none;
