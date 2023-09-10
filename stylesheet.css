@@ -16,12 +16,15 @@ h2{
 
 p {
   color:#000000;
-  background-color:#000000;
 }
 
 img {
   height:50px;
   width:70px;
+}
+
+body{
+  font-family:"Times new roman";
 }
 
 li{
@@ -30,16 +33,10 @@ li{
   padding:33px 20px;
 }
 
-.header-logo{
-  font-size:36px;
-  float:left;
-  padding:20px 40px;
-}
-
 .header {
   background-color: ##7FFFD4;
   color: #000000;
-  height: 90px;
+  height: 100px;
 }
 
 .header-logo {
