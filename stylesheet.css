@@ -24,13 +24,9 @@ img {
   width:70px;
 }
 
-.selected{
-  color:#000000;
-  background-color:#5F9EA0;
-}
 li{
-  list-style:none;
-  float:left;
+  list-style:Times new roman;
+  float:right;
   padding:33px 20px;
 }
 
