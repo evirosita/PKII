@@ -23,6 +23,26 @@ img {
   width:70px;
 }
 
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;  
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
 li{
   list-style:none;
   float:left;
@@ -44,9 +64,4 @@ li{
 .main {
   background-color: #5F9EA0;
   height: 600px;
-}
-
-.footer {
-  background-color: #008B8B;
-  height: 270px;
 }
