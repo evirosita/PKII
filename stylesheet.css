@@ -65,3 +65,19 @@ li{
   background-color: #5F9EA0;
   height: 600px;
 }
+
+.main {
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-size: 140px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: white;
+}
