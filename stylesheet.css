@@ -1,7 +1,12 @@
+li {
+  list-style: none;
+  float: left;
+}
+
 .header {
   background-color:cyan;
   color: #000000;
-  height: 100px;
+  height: 90px;
 }
 
 .header-logo {
