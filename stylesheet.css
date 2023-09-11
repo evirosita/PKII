@@ -46,11 +46,5 @@
 }
 
 .footer-list li {
-  padding-bottom: 10px;
-}
-
-li{
-  list-style:none;
-  float:left;
-  padding:33px 20px;
+  padding-bottom: 20px;
 }
