@@ -9,20 +9,55 @@ li {
 }
 
 .header {
-  background-color: rgb(53, 100, 128);
-  color: white;
+  height: 65px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.header{
+  color: #fff;
+  background-color: #2f5167;
   height: 90px;
+}
+
+.logo{
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left{
+  float:left;
+}
+
+.header-right{
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+  display: block;
+}
+
+.header-right:hover{
+  background-color:#2a4b61;
 }
 
 .header-logo {
   float: left;
-  font-size: 45px;
-  padding: 33px 40px;
+  font-size: 36px;
+  padding: 20px 40px;
 }
 
 .header-list li {
   float: left;
-  padding: 40px 30px;
+  padding: 33px 20px;
 }
 
 .container{
@@ -112,7 +147,9 @@ li {
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding: 100px 100px;
+  font-size: 32px;
+
 }
 
 input, textarea {
